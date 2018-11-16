@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Image  Panel.ZIndex="0" Margin="0,0,0,0" Name="image1">
+            <Image.Source>
+                <BitmapImage UriSource="C:\Users\baptiste.magoni\source\repos\Carilloneurs\Carilloneurs\cloche.gif"/>
+            </Image.Source>
+        </Image>
     </Grid>
 </Window>
