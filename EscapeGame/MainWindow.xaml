@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EscapeGame"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Image  Panel.ZIndex="0" Margin="0,0,0,0" Name="image1">
+        Title="MainWindow" Height="500" Width="600">
+    <Grid Height="auto" Width="auto" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+        
+        <!--<Image  Panel.ZIndex="0" Margin="0,0,0,0" Name="image1">
             <Image.Source>
-                <BitmapImage UriSource="C:\Users\baptiste.magoni\source\repos\Carilloneurs\Carilloneurs\cloche.gif"/>
+                <BitmapImage UriSource="images/bg.jpg"/>
             </Image.Source>
-        </Image>
+        </Image>-->
     </Grid>
 </Window>
